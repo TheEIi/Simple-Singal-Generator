@@ -1,4 +1,4 @@
-⚡ Apex Signal Lab: Pro Multi-Wave Generator
+⚡ Simple Signal Generator: Pro Multi-Wave Generator
 
 Apex Signal Lab is a high-precision, high-performance signal processing
 application built with Python, PyQt6, and Matplotlib. It allows engineers,
