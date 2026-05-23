@@ -8,8 +8,8 @@ Python GUI License
     waves with high-fidelity sampling.
   - 🎛️ Dual-Control Interface: Every parameter has a smooth Sleek Slider for
     quick adjustments and a Precision Manual Box for exact numerical entry.
-  - 📐 Fractional \pi Phase Control: Switch between standard degrees (0-360°) and
-    mathematical radians using fractional \pi inputs (e.g., 3\pi/4).
+  - 📐 Fractional (π) Phase Control: Switch between standard degrees (0-360°) and
+    mathematical radians using fractional (π) inputs (e.g., 3(π)/4).
   - 🔊 White Noise Injection: Add a variable "Noise Floor" to simulate real-world
     interference and electronic static.
   - 📊 Multi-Signal Comparison: Add multiple signals to the plot to compare
