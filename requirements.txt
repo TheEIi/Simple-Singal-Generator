@@ -1,0 +1,6 @@
+--index-url https://mirror-pypi.runflare.com/simple
+
+scipy
+numpy
+matplotlib
+PyQt6
