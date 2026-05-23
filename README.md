@@ -1,6 +1,6 @@
 ⚡ Simple Signal Generator: Pro Multi-Wave Generator
 
-Apex Signal Lab is a high-precision, high-performance signal processing
+Simple Signal Generator is a high-precision, high-performance signal processing
 application built with Python, PyQt6, and Matplotlib. It allows engineers,
 students, and researchers to generate, manipulate, and compare complex waveforms
 in real-time with a sleek "Midnight-Dark" industrial interface.
@@ -35,7 +35,7 @@ Python GUI License
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/signal-generator-project.git
+git clone https://github.com/TheEIi/signal-generator-project.git
 cd signal-generator-project
 
 2. Install Dependencies
@@ -76,18 +76,13 @@ python main.py
     window with dark-mode styling.
   - requirements.txt 📦 — List of all necessary libraries.
 
-📸 Screenshots
-
-(Tip: Add a screenshot of your app here to make the README look even better!)
-
 🤝 Contributing
 
-Contributions are welcome! If you have ideas for new waveforms (like PWM or
-Pulse), feel free to fork the repo and submit a Pull Request.
+Contributions are welcome!
+Feel free to fork the repo and submit a Pull Request.
 
 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for
-details.
+This project is licensed under the MIT License
 
 Developed with ❤️ for the Engineering Community.
