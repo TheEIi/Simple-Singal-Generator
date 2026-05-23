@@ -1,9 +1,4 @@
-⚡ Simple Signal Generator: Pro Multi-Wave Generator
-
-Simple Signal Generator is a high-precision, high-performance signal processing
-application built with Python, PyQt6, and Matplotlib. It allows engineers,
-students, and researchers to generate, manipulate, and compare complex waveforms
-in real-time with a sleek "Midnight-Dark" industrial interface.
+⚡ Simple Signal Generator (SSG): Pro Multi-Wave Generator
 
 Python GUI License
 
